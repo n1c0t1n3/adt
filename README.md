@@ -1,6 +1,6 @@
 ﻿Coded by n1c0t1n3
 
-ADt (Add Data in Table) for MySQL
+ADT (Add Data in Table) for MySQL
 
 
 <-- What is this? -->
